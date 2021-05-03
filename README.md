@@ -1,4 +1,4 @@
-# Face Comparison
+# Face comparison
 
 Import images and check if the shown faces are the same
 
