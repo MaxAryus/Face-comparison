@@ -4,7 +4,7 @@ Import images and check if the shown faces are the same
 
 ## Software
 
-The software is written in Python and uses the Face Recognition[https://pypi.org/project/face-recognition/] project.
+The software is written in Python and uses the [Face Recognition](https://pypi.org/project/face-recognition/) project.
 
 ### How to use the software
 
