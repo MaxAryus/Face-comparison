@@ -10,7 +10,7 @@ The software is written in Python and uses the [Face Recognition](https://pypi.o
 
 Clone the project
 `````
-git clone https://github.com/MaxAryus/Hourly.git
+git https://github.com/MaxAryus/Face-comparison.git
 `````
 
 Import the images you want to comapre into the ‘images‘ folder
